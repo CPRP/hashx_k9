@@ -1,4 +1,4 @@
-
+local QBCore = exports['qb-core']:GetCoreObject()
 --       GLOBALS      --
 local DEBUG = false
 -- DO NOT TOUCH THESE --
